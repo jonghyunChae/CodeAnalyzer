@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj": {}
+    "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj": {
+    "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj",
+        "projectUniqueName": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj",
         "projectName": "StringAnalyzerTest",
-        "projectPath": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj",
+        "projectPath": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzerTest\\obj\\",
+        "outputPath": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzerTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\source\\repos\\StringAnalyzer\\NuGet.Config",
+          "C:\\git\\CodeAnalyzer\\StringAnalyzer\\NuGet.Config",
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -28,7 +28,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\user\\source\\repos\\StringAnalyzer\\Nuget": {},
+          "C:\\git\\CodeAnalyzer\\StringAnalyzer\\Nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

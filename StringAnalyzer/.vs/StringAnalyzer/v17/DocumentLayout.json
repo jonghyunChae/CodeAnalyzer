@@ -1,64 +1,63 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\",
+  "WorkspaceRootPath": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\users\\user\\source\\repos\\stringanalyzer\\stringanalyzer\\stringanalyzer\\stringtouppercaseanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|solutionrelative:stringanalyzer\\stringanalyzer\\stringtouppercaseanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26ED2D9B-4572-48A3-926F-86956076146F}|StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj|c:\\git\\codeanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer.package\\stringanalyzer.package.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{26ED2D9B-4572-48A3-926F-86956076146F}|StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj|solutionrelative:stringanalyzer\\stringanalyzer.package\\stringanalyzer.package.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26ED2D9B-4572-48A3-926F-86956076146F}|StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj|c:\\users\\user\\source\\repos\\stringanalyzer\\stringanalyzer\\stringanalyzer.package\\stringanalyzer.package.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{26ED2D9B-4572-48A3-926F-86956076146F}|StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj|c:\\git\\codeanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer.package\\stringanalyzer.package.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{26ED2D9B-4572-48A3-926F-86956076146F}|StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj|solutionrelative:stringanalyzer\\stringanalyzer.package\\stringanalyzer.package.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\users\\user\\source\\repos\\stringanalyzer\\stringanalyzer\\stringanalyzer\\analyzerreleases.shipped.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\git\\codeanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer\\stringtouppercaseanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|solutionrelative:stringanalyzer\\stringanalyzer\\stringtouppercaseanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\git\\codeanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer\\analyzerreleases.shipped.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|solutionrelative:stringanalyzer\\stringanalyzer\\analyzerreleases.shipped.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\users\\user\\source\\repos\\stringanalyzer\\stringanalyzer\\stringanalyzer\\analyzerreleases.unshipped.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\git\\codeanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer\\analyzerreleases.unshipped.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|solutionrelative:stringanalyzer\\stringanalyzer\\analyzerreleases.unshipped.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\users\\user\\source\\repos\\stringanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\git\\codeanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|solutionrelative:stringanalyzer\\stringanalyzer\\stringanalyzer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\users\\user\\source\\repos\\stringanalyzer\\stringanalyzer\\stringanalyzer\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\git\\codeanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|solutionrelative:stringanalyzer\\stringanalyzer\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\users\\user\\source\\repos\\stringanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\git\\codeanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|solutionrelative:stringanalyzer\\stringanalyzer\\stringanalyzer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\obj\\Release\\netstandard2.0\\StringAnalyzer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StringAnalyzer\\StringAnalyzer\\obj\\Release\\netstandard2.0\\StringAnalyzer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\obj\\Release\\netstandard2.0\\StringAnalyzer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6079F9-0E07-4D0E-9762-72A5564CE5A1}|StringAnalyzerTest\\StringAnalyzerTest.csproj|c:\\users\\user\\source\\repos\\stringanalyzer\\stringanalyzertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B6079F9-0E07-4D0E-9762-72A5564CE5A1}|StringAnalyzerTest\\StringAnalyzerTest.csproj|c:\\git\\codeanalyzer\\stringanalyzer\\stringanalyzertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B6079F9-0E07-4D0E-9762-72A5564CE5A1}|StringAnalyzerTest\\StringAnalyzerTest.csproj|solutionrelative:stringanalyzertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\.nuget\\packages\\microsoft.vssdk.buildtools\\16.8.3038\\tools\\vssdk\\Microsoft.VsSDK.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6079F9-0E07-4D0E-9762-72A5564CE5A1}|StringAnalyzerTest\\StringAnalyzerTest.csproj|c:\\users\\user\\source\\repos\\stringanalyzer\\stringanalyzertest\\stringanalyzertest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{9B6079F9-0E07-4D0E-9762-72A5564CE5A1}|StringAnalyzerTest\\StringAnalyzerTest.csproj|c:\\git\\codeanalyzer\\stringanalyzer\\stringanalyzertest\\stringanalyzertest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{9B6079F9-0E07-4D0E-9762-72A5564CE5A1}|StringAnalyzerTest\\StringAnalyzerTest.csproj|solutionrelative:stringanalyzertest\\stringanalyzertest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\users\\user\\source\\repos\\stringanalyzer\\stringanalyzer\\stringanalyzer\\stringtouppercasecodefixprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|c:\\git\\codeanalyzer\\stringanalyzer\\stringanalyzer\\stringanalyzer\\stringtouppercasecodefixprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|solutionrelative:stringanalyzer\\stringanalyzer\\stringtouppercasecodefixprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|C:\\Users\\user\\source\\repos\\StringAnalyzer\\stringanalyzer\\stringanalyzer\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|C:\\git\\CodeAnalyzer\\StringAnalyzer\\stringanalyzer\\stringanalyzer\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{444F558D-5149-4C35-9B3C-2FA528561C28}|StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj|solutionrelative:stringanalyzer\\stringanalyzer\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26ED2D9B-4572-48A3-926F-86956076146F}|StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj|c:\\users\\user\\source\\repos\\stringanalyzer\\stringanalyzer\\stringanalyzer.package\\stringanalyzer.package.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{26ED2D9B-4572-48A3-926F-86956076146F}|StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj|solutionrelative:stringanalyzer\\stringanalyzer.package\\stringanalyzer.package.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,51 +67,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AnalyzerReleases.Unshipped.md",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Unshipped.md",
-              "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Unshipped.md",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Unshipped.md",
-              "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Unshipped.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-12-14T13:18:08.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AnalyzerReleases.Shipped.md",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Shipped.md",
-              "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Shipped.md",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Shipped.md",
-              "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Shipped.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-12-14T13:16:30.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StringAnalyzer.Package",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
-              "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
-              "RelativeToolTip": "StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-14T13:16:25.565Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
@@ -126,12 +82,53 @@
               "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StringAnalyzer",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
+              "DocumentIndex": 4,
+              "Title": "AnalyzerReleases.Unshipped.md",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Unshipped.md",
+              "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Unshipped.md",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Unshipped.md",
+              "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Unshipped.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-14T13:18:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalyzerReleases.Shipped.md",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Shipped.md",
+              "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Shipped.md",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Shipped.md",
+              "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\AnalyzerReleases.Shipped.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-14T13:16:30.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringAnalyzer.Package.csproj",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
+              "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
+              "RelativeToolTip": "StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T13:16:25.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StringAnalyzer.csproj",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
               "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
               "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -140,37 +137,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "StringAnalyzer.AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\obj\\Release\\netstandard2.0\\StringAnalyzer.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\obj\\Release\\netstandard2.0\\StringAnalyzer.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\obj\\Release\\netstandard2.0\\StringAnalyzer.AssemblyInfo.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\obj\\Release\\netstandard2.0\\StringAnalyzer.AssemblyInfo.cs",
-              "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\obj\\Release\\netstandard2.0\\StringAnalyzer.AssemblyInfo.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\obj\\Release\\netstandard2.0\\StringAnalyzer.AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIAwwBMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T13:15:39.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T13:15:39.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\Resources.Designer.cs",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\Resources.Designer.cs",
+              "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\Resources.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:52:16.555Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Resources.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\Resources.Designer.cs",
-              "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\Resources.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\Resources.Designer.cs",
-              "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\Resources.Designer.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T11:52:16.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "StringAnalyzer",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
               "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
               "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\StringAnalyzer.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-14T11:17:14.203Z",
@@ -178,11 +173,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StringToUpperCaseAnalyzer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringToUpperCaseAnalyzer.cs",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringToUpperCaseAnalyzer.cs",
               "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\StringToUpperCaseAnalyzer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringToUpperCaseAnalyzer.cs",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringToUpperCaseAnalyzer.cs",
               "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\StringToUpperCaseAnalyzer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,47 +186,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzerTest\\Program.cs",
-              "RelativeDocumentMoniker": "StringAnalyzerTest\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzerTest\\Program.cs",
-              "RelativeToolTip": "StringAnalyzerTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T11:32:42.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "StringAnalyzer.Package",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
               "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
               "RelativeToolTip": "StringAnalyzer\\StringAnalyzer.Package\\StringAnalyzer.Package.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-14T11:17:17.411Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzerTest\\Program.cs",
+              "RelativeDocumentMoniker": "StringAnalyzerTest\\Program.cs",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzerTest\\Program.cs",
+              "RelativeToolTip": "StringAnalyzerTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:32:42.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "NuGet.Build.Tasks.Pack.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-12-14T11:27:07.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "StringAnalyzerTest",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj",
               "RelativeDocumentMoniker": "StringAnalyzerTest\\StringAnalyzerTest.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj",
               "RelativeToolTip": "StringAnalyzerTest\\StringAnalyzerTest.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-14T12:03:31.877Z",
@@ -239,45 +237,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Microsoft.VsSDK.targets",
               "DocumentMoniker": "C:\\Users\\user\\.nuget\\packages\\microsoft.vssdk.buildtools\\16.8.3038\\tools\\vssdk\\Microsoft.VsSDK.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.vssdk.buildtools\\16.8.3038\\tools\\vssdk\\Microsoft.VsSDK.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\user\\.nuget\\packages\\microsoft.vssdk.buildtools\\16.8.3038\\tools\\vssdk\\Microsoft.VsSDK.targets",
               "ToolTip": "C:\\Users\\user\\.nuget\\packages\\microsoft.vssdk.buildtools\\16.8.3038\\tools\\vssdk\\Microsoft.VsSDK.targets",
-              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.vssdk.buildtools\\16.8.3038\\tools\\vssdk\\Microsoft.VsSDK.targets",
+              "RelativeToolTip": "..\\..\\..\\Users\\user\\.nuget\\packages\\microsoft.vssdk.buildtools\\16.8.3038\\tools\\vssdk\\Microsoft.VsSDK.targets",
               "ViewState": "AgIAAGIAAAAAAAAAAAAmwHcAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-12-14T12:11:37.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StringToUpperCaseCodeFixProvider.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringToUpperCaseCodeFixProvider.cs",
-              "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\StringToUpperCaseCodeFixProvider.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringToUpperCaseCodeFixProvider.cs",
-              "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\StringToUpperCaseCodeFixProvider.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBIAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T11:15:21.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-12-14T12:11:37.325Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "StringToUpperCaseCodeFixProvider.cs",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringToUpperCaseCodeFixProvider.cs",
+              "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\StringToUpperCaseCodeFixProvider.cs",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringToUpperCaseCodeFixProvider.cs",
+              "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\StringToUpperCaseCodeFixProvider.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:15:21.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\Resources.resx",
+              "DocumentMoniker": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\Resources.resx",
               "RelativeDocumentMoniker": "StringAnalyzer\\StringAnalyzer\\Resources.resx",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\Resources.resx",
+              "ToolTip": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzer\\StringAnalyzer\\Resources.resx",
               "RelativeToolTip": "StringAnalyzer\\StringAnalyzer\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-12-14T11:52:21.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T11:52:21.462Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringAnalyzerTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4516df95639eb0263118e96b03bd507d7e30d0cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringAnalyzerTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringAnalyzerTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

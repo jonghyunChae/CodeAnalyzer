@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZkZ2mruB5K8=",
+  "dgSpecHash": "wgKKjdehCzE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj",
+  "projectFilePath": "C:\\git\\CodeAnalyzer\\StringAnalyzer\\StringAnalyzerTest\\StringAnalyzerTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\stringanalyzer\\1.0.1\\stringanalyzer.1.0.1.nupkg.sha512"
   ],
