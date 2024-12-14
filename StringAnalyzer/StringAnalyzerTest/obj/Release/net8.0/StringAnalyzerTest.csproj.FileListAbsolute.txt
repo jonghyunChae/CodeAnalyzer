@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\bin\Release\net8.0\StringAnalyzerTest.exe
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\bin\Release\net8.0\StringAnalyzerTest.deps.json
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\bin\Release\net8.0\StringAnalyzerTest.runtimeconfig.json
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\bin\Release\net8.0\StringAnalyzerTest.dll
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\bin\Release\net8.0\StringAnalyzerTest.pdb
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\obj\Release\net8.0\StringAnalyzerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\obj\Release\net8.0\StringAnalyzerTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\obj\Release\net8.0\StringAnalyzerTest.AssemblyInfo.cs
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\obj\Release\net8.0\StringAnalyzerTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\obj\Release\net8.0\StringAnalyzerTest.dll
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\obj\Release\net8.0\refint\StringAnalyzerTest.dll
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\obj\Release\net8.0\StringAnalyzerTest.pdb
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\obj\Release\net8.0\StringAnalyzerTest.genruntimeconfig.cache
+C:\Users\user\source\repos\StringAnalyzer\StringAnalyzerTest\obj\Release\net8.0\ref\StringAnalyzerTest.dll
